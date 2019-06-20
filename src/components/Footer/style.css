@@ -1,0 +1,9 @@
+.page-footer {
+    background-color: #343f4b;
+}
+#multiColorBarForBottom {
+    width: 100%;
+    height: 1px;
+    margin: 0px;
+    background-image: linear-gradient(to right, #5F6670, #5F6670);
+}

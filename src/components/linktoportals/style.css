@@ -1,0 +1,30 @@
+/* style for linktoforms */
+#linktoforms {
+    background-color: #343f4b;
+    margin: 0px;
+}
+#linktoforms .s8{
+    height: 49px;
+    border: 1px solid white;
+    border-radius: 4px;
+    color: white;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    cursor: pointer;
+    transition-duration: 0.25s;
+}
+@media only screen and (max-width: 992px) {
+    #linktoforms .s8 {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+}
+#linktoforms .s8:hover{
+    color: #343f4b;
+    background-color: white;
+    border: 1px solid #343f4b;
+}
+#linktoforms .s8 h6 {
+    margin-top: 12px;
+    font-weight: 600;
+}
