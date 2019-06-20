@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './style.css';
+import { NavLink } from 'react-router-dom';
 
 class Linktoportals extends Component {
     state = {  }
@@ -13,9 +14,11 @@ class Linktoportals extends Component {
                         </div>
                     </a>
                     <div className="col s12 m6 offset-m3 l4">
-                        <div className="col s8 offset-s2">
-                            <h6 className="center-align">Post a learning Request</h6>
-                        </div>
+                        <NavLink to="/postlearningrequest">
+                            <div className="col s8 offset-s2">
+                                <h6 className="center-align">Post a learning Request</h6>
+                            </div>
+                        </NavLink>
                     </div>
                 </div>
             </div>

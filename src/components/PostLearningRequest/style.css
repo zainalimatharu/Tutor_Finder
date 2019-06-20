@@ -1,0 +1,54 @@
+#postlearningrequest h5{
+    font-weight: 500;
+}
+#postlearningrequest p{
+    font-weight: 500;
+    margin: 0px;
+}
+#postlearningrequest h6{
+    font-weight: 500;
+}
+#postlearningrequest input {
+    width: 100%;
+    height: 43px;
+    margin-bottom: 22px;
+    color: #414141;
+    font-weight: 500;
+    padding: 12px;
+    border: none;
+    background-color: #DFDEDE;
+    border-radius: 5px;
+    outline: none;
+}
+#postlearningrequest input::placeholder {
+    color: #727272;
+    font-weight: 500;
+}
+#postlearningrequest input::-ms-input-placeholder {
+    color: #727272;
+    font-weight: 500;
+}
+#postlearningrequest textarea {
+    height: 100px;
+}
+#postlearningrequest textarea::placeholder {
+    color: #727272;
+    font-weight: 500;
+}
+#postlearningrequest .l8 {
+    border: 1px solid #6D4129;
+    padding-top: 22px;
+}
+#postlearningrequest button {
+    height: 43px;
+    margin-bottom: 22px;
+    border-radius: 5px;
+    border: none;
+    background-color: #6E2E2E;
+    opacity: 0.7;
+    font-weight: 500;
+    color: white;
+    cursor: pointer;
+    margin-bottom: 0px;
+    padding: 0px 15px;
+}

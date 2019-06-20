@@ -10,6 +10,7 @@ import TutorPortal from './components/tutorPortal/Tutors';
 import ForgotPassword from './components/Registration/forgotPassword';
 import Navbar from './components/Header';
 import Footer from './components/Footer/index';
+import Postlearningrequest from './components/PostLearningRequest/index';
 import Aftersignup from './components/completeYourProfile/afterSignup/index';
 import Completetutorprofile from './components/completeYourProfile/completeTutorProfile/index';
 import Completeinstituteprofile from './components/completeYourProfile/completeInstituteProfile/index';
@@ -67,6 +68,7 @@ class App extends Component {
             <Route path="/whoyouare" component={Aftersignup} />
             <Route path="/completetutorprofile" component={Completetutorprofile} />
             <Route path="/completeinstituteprofile" component={Completeinstituteprofile} />
+            <Route path="/postlearningrequest" component={Postlearningrequest} />
           </div>
         </Switch>
       </BrowserRouter>

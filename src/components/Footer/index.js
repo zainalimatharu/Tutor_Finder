@@ -24,8 +24,8 @@ class Bottom extends Component {
                                     </div>
                                 </div>
                                 <div className="col s9 l10" style={{marginTop: "-5px", fontWeight: "450", fontSize: ".9rem", padding: "0px"}}>
-                                    <p style={{letterSpacing: ".05rem"}}>Saleem Pura Stop, Hafizabad Road, Gujranwala.<br />
-                                    To see location at google maps <a href="https://goo.gl/maps/VsCtj5RyFQtu8Po27">Click Here!</a></p>
+                                    <p style={{letterSpacing: ".05rem"}}>Dept. of computer Science, UAF.<br />
+                                    To view location at google maps <a href="https://goo.gl/maps/VsCtj5RyFQtu8Po27">Click Here!</a></p>
                                 </div>
                             </div>
                         </div>
@@ -56,8 +56,8 @@ class Bottom extends Component {
             </div>
             <div className="row" style={{backgroundColor: "#293038", margin: "0px"}}>
                 <div className="container">
-                    <h6 className="left" style={{margin: "0px", padding: "10px", color:"#CFD0D6", fontSize: "1rem"}}>Copyright © Al-madinaDispensary</h6>
-                    <h6 className="right" style={{margin: "0px", padding: "10px", color:"#CFD0D6", fontSize: "1rem"}}>Developed by: theCodingHuman</h6>
+                    <h6 className="left" style={{margin: "0px", padding: "10px", color:"#CFD0D6", fontSize: "1rem"}}>Copyright © codeOfEast 2019</h6>
+                    <h6 className="right" style={{margin: "0px", padding: "10px", color:"#CFD0D6", fontSize: "1rem"}}>Developed by: codeOfEast</h6>
                 </div>
             </div>
             </div>
