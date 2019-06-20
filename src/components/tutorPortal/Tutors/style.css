@@ -9,16 +9,11 @@
 #tutordp {
     padding: 4px 0px 0px 0px;
 }
-#tutordata {
-    border-left: 1px solid #B4B4B3;
-}
 #tutordata .myrow {
     padding: 6px 0px 6px 10px;;
     margin: 0px;
 }
-#tutorprofile {
-    background-color: #eeeeee;
-    border-right: 1px solid #B4B4B3;
-    border-left: 1px solid #B4B4B3;
-    cursor: pointer;
+#tutorprofileview {
+    background-color: #FFFFFF;
+    margin-top: 70px;
 }
